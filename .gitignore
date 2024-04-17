@@ -1,0 +1,29 @@
+# Dependency directories
+/node_modules
+/bower_components
+
+# Environment variables
+.env
+
+# Build files
+/build
+/dist
+
+# Logs and debugging
+/logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.pnpm-recursive
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+.env
